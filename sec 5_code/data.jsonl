@@ -1,0 +1,10 @@
+{"prompt": "Solve for x: 2x + 5 = 15STOP", "completion": "x = 5"}
+{"prompt": "Find the value of y in the equation 3y - 7 = 14STOP", "completion": "y = 7"}
+{"prompt": "Simplify the expression: 2(x + 3) - 4xSTOP", "completion": "2x + 6 - 4x"}
+{"prompt": "Solve for y: 4y + 9 = 21STOP", "completion": "y = 3"}
+{"prompt": "Evaluate the expression for x = 4: 3x - 2", "completion": "3(4) - 2"}
+{"prompt": "Find the value of z in the equation 2z + 8 = 20", "completion": "z = 6"}
+{"prompt": "Simplify the expression: 5(2x - 3) + 4(3 - x)", "completion": "10x - 15 + 12 - 4x"}
+{"prompt": "Solve for x: 3(x - 2) = 9", "completion": "x = 5"}
+{"prompt": "Find the value of y in the equation 2y + 7 = 15", "completion": "y = 4"}
+{"prompt": "Evaluate the expression for x = 3: 4x + 5", "completion": "4(3) + 5"}
